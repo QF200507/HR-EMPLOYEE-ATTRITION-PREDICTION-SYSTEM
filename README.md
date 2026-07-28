@@ -8,11 +8,11 @@ Built using **Python, Scikit-learn, Streamlit, Plotly, and Pandas**, this projec
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** *Add your deployed Streamlit link here*
+🔗 **Streamlit App:** *https://hr-employee-attrition-prediction-system-cfdprgca3fwuyybd7hfafi.streamlit.app/*
 
 ## 💻 GitHub Repository
 
-🔗 *Add your GitHub repository link here*
+🔗 *https://github.com/QF200507/HR-EMPLOYEE-ATTRITION-PREDICTION-SYSTEM*
 
 ---
 
