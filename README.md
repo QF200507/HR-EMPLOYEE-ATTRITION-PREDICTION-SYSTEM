@@ -226,8 +226,4 @@ LinkedIn: https://www.linkedin.com/in/shriyans-mohanty-84485a2a4/?skipRedirect=t
 
 Please consider giving the repository a ⭐ on GitHub.
 
----
 
-# 📜 License
-
-This project is intended for educational and academic purposes.
