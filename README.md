@@ -211,32 +211,6 @@ Employee-Attrition-Prediction/
 
 ---
 
-# 📷 Screenshots
-
-## Dashboard
-
-> Add Screenshot Here
-
----
-
-## Leave Probability Gauge
-
-> Add Screenshot Here
-
----
-
-## Feature Contribution Analysis
-
-> Add Screenshot Here
-
----
-
-## HR Recommendations
-
-> Add Screenshot Here
-
----
-
 # 👨‍💻 Developed By
 
 **Shriyans Mohanty**
